@@ -10,7 +10,7 @@
   <p align="center">
     CPU,GPU Temp C# widget 
     <br />
-    <img src="Screenshot/Screenshot_1.png" alt="Logo" width="380" height="380">
+    <img src="Screenshot/Screenshot_1.png"  width="380" >
     <br />
     <br />
   </p>
