@@ -7,12 +7,13 @@
 
   <h3 align="center">HardwareView</h3>
 
-  <p align="center">
+  <p>
     CPU,GPU Temp C# widget 
     <br />
     Hardware View show widget update real time CPU , GPU Temp
+    its  Simple C# program show CPU and GPU Temp as Desktop Widget 
     <br />
-    <img src="Screenshot/Screenshot_1.png"  width="380" >
+    <img src="Screenshot/Screenshot_1.png"  >
     <br />
     <a href="https://github.com/s4dm4nx/HardwareView/releases/tag/hardwareview" >Release</a>
     <br />
