@@ -10,6 +10,8 @@
   <p align="center">
     CPU,GPU Temp C# widget 
     <br />
+    Hardware View show widget update real time CPU , GPU Temp
+    <br />
     <img src="Screenshot/Screenshot_1.png"  width="380" >
     <br />
     <a href="https://github.com/s4dm4nx/HardwareView/releases/tag/hardwareview" >Release</a>
