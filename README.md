@@ -12,6 +12,10 @@
     <br />
     <img src="Screenshot/Screenshot_1.png"  width="380" >
     <br />
+    <a href="https://github.com/s4dm4nx/HardwareView/releases/tag/hardwareview" >Release</a>
     <br />
+    S4D M4N
+    <br />
+    dr.s4dm4n@gmail.com
   </p>
 </div>
