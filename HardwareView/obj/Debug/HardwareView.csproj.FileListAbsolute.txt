@@ -1,0 +1,17 @@
+D:\VisualStudioResp\HardwareView\HardwareView\bin\Debug\HardwareView.exe.config
+D:\VisualStudioResp\HardwareView\HardwareView\bin\Debug\HardwareView.exe
+D:\VisualStudioResp\HardwareView\HardwareView\bin\Debug\HardwareView.pdb
+D:\VisualStudioResp\HardwareView\HardwareView\bin\Debug\HidSharp.dll
+D:\VisualStudioResp\HardwareView\HardwareView\bin\Debug\LibreHardwareMonitorLib.dll
+D:\VisualStudioResp\HardwareView\HardwareView\bin\Debug\HidSharp.pdb
+D:\VisualStudioResp\HardwareView\HardwareView\bin\Debug\HidSharp.xml
+D:\VisualStudioResp\HardwareView\HardwareView\bin\Debug\LibreHardwareMonitorLib.xml
+D:\VisualStudioResp\HardwareView\HardwareView\obj\Debug\HardwareView.csproj.AssemblyReference.cache
+D:\VisualStudioResp\HardwareView\HardwareView\obj\Debug\HardwareView.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioResp\HardwareView\HardwareView\obj\Debug\HardwareView.Main.resources
+D:\VisualStudioResp\HardwareView\HardwareView\obj\Debug\HardwareView.Properties.Resources.resources
+D:\VisualStudioResp\HardwareView\HardwareView\obj\Debug\HardwareView.csproj.GenerateResource.cache
+D:\VisualStudioResp\HardwareView\HardwareView\obj\Debug\HardwareView.csproj.CoreCompileInputs.cache
+D:\VisualStudioResp\HardwareView\HardwareView\obj\Debug\HardwareView.csproj.CopyComplete
+D:\VisualStudioResp\HardwareView\HardwareView\obj\Debug\HardwareView.exe
+D:\VisualStudioResp\HardwareView\HardwareView\obj\Debug\HardwareView.pdb
